@@ -1,5 +1,3 @@
-from email.policy import default
-from requests import request
 from rest_framework import serializers
 from rest_framework.relations import SlugRelatedField
 
